@@ -1,4 +1,4 @@
-### Hi there, i'm yogi 👋
+### Hi there, i'm YoGi 👋
 
 ![yogi](yogi.png)
 
