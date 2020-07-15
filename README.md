@@ -6,3 +6,5 @@ and **smart working developer**, one of my favorite quote that i live by is  *__
 >
 <code>feel free to check out [about me](https://linktr.ee/yogi.js)</code>
 >
+>
+[![yogesh mishra's github stats](https://github-readme-stats.vercel.app/api?username=yogeshmishra667)](https://github.com/yogeshmishra667/github-readme-stats)
