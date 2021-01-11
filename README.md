@@ -1,6 +1,6 @@
 # Hey there, i'm YoGi 👋
 >
-A 20 years old **full stack javaScript developer** from India and have keen interest in JavaScript.
+A 21 years old **full stack javaScript developer** from India and have keen interest in JavaScript.
 I develop innovative website using my creativity and aesthetic solution. I am passionate about learning new technologies
 and **smart working developer**, one of my favorite quote that i live by is  *__"knowing is not enough, we must apply"__*.😎
 >
@@ -14,7 +14,7 @@ and **smart working developer**, one of my favorite quote that i live by is  *__
 - 🔭 I’m currently working on MERN stack!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love only programming and reading books
 
 ### Connect with me:
