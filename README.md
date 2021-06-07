@@ -58,8 +58,8 @@ A 21 years old **full-stack javaScript developer** from India and have a keen in
 
 
 [website]: https://linktr.ee/yogi.js
-[twitter]: https://twitter.com/_YoGi_JS
+[twitter]: https://twitter.com/_yogijs_404
 [youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/_yogesh__mishra/
+[instagram]: https://www.instagram.com/_yogijs_404/
 [linkedin]: https://www.linkedin.com/in/yogesh-dev
 [tech]:https://linktr.ee/yogi.js
