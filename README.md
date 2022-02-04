@@ -1,6 +1,6 @@
 # Hey there, i'm YoGi 👋
 >
-A 21 years old **full-stack javaScript developer** from India and have a keen interest in JavaScript. I develop innovative websites using my creativity and aesthetic solution. I am passionate about learning new **technologies and books**, one of my favorite quote that I live by is *__"knowing is not enough, we must apply".__*
+A 22 years old **full-stack javaScript developer** from India and have a keen interest in JavaScript. I develop innovative websites using my creativity and aesthetic solution. I am passionate about learning new **technologies and books**, one of my favorite quote that I live by is *__"knowing is not enough, we must apply".__*
 >
 <code>feel free to check out [about me](https://linktr.ee/yogi.js)</code>
 
