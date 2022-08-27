@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm yogesh mishra</h1>
-<h3 align="center">A 22 years old full-stack javaScript developer from India and have a keen interest in JavaScript. I develop innovative websites using my creativity and aesthetic solution. I am passionate about learning new technologies and books, one of my favorite quote that I live by is "knowing is not enough, we must apply".</h3>
+<h3 align="center">My name is Yogesh, and I'm a full-stack JavaScript developer from India. I develop innovative websites using my creativity and aesthetic solution.
+I have a keen interest in javascript and UI/UX and have been involved in web development since the early 2017 when I was learning basic HTML. Since then, my interests have grown to include everything from building websites. My goal is always to learn new technologies and books that can help me grow as a web developer. one of my favorite quote that I live by is "knowing is not enough, we must apply".</h3>
 
 <p align="left"> <a href="https://twitter.com/yogijs_404" target="blank"><img src="https://img.shields.io/twitter/follow/yogijs_404?logo=twitter&style=for-the-badge" alt="yogijs_404" /></a> </p>
 
