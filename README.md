@@ -22,7 +22,7 @@ I have a keen interest in javascript and UI/UX and have been involved in web dev
 
 <br/>
 
- **Connect With Me:** <br />
+ **Connect With Me:**  <br />
 
 <p align="left">
 <a href="https://codepen.io/yogeshmishra667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yogeshmishra667" height="30" width="40" /></a>
