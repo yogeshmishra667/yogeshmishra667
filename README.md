@@ -22,6 +22,12 @@ I have a keen interest in javascript and UI/UX and have been involved in web dev
 
 <br/>
 
+<h4 align="center">Most used languages (by number of commits)</h4>
+<p align="center">
+	<a href="https://profile.codersrank.io/user/yogeshmishra667#Tech%20Skills">
+		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=yogeshmishra667&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=CSS,Go,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&bg=white">
+	</a>
+</p>
  **Connect With Me:**  <br />
 
 <p align="left">
