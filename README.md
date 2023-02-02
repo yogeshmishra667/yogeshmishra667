@@ -10,7 +10,7 @@ I have a keen interest in javascript and UI/UX and have been involved in web dev
 
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **NEXT.JS UI/UX**
+- 🌱 I’m currently learning **NEXT.JS | UI/UX**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/yogi.js](https://linktr.ee/yogi.js)
 
