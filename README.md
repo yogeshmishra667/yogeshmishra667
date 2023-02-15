@@ -14,7 +14,7 @@ I have a keen interest in javascript and UI/UX and have been involved in web dev
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/yogi.js](https://linktr.ee/yogi.js)
 
-- 💬 Ask me about **Javascript UI/UX**
+- 💬 Ask me about **Javascript ecosystem UI/UX**
 
 - 📫 How to reach me **yogeshmishra667@gmail.com**
 
